@@ -1,0 +1,152 @@
+[
+    {
+        "BRAND": "Hisense",
+        "PRODUCT_NAME": "Hisense U9DG",
+        "GRAPHIC_NAME": "U9DG_Graphic",
+        "COST_PRICE": "500.00",
+        "MSRP": "123.00",
+        "QTY_ON_HAND": "6",
+        "QTY_ON_BACK_HAND": "10",
+        DESCRIPTION: "This is one of the best TV's in the world!!!"
+    },
+    {
+        "BRAND": "LG",
+        "PRODUCT_NAME": "LG Why",
+        "GRAPHIC_NAME": "LG_Why_Graphic",
+        "COST_PRICE": "950.00",
+        "MSRP": "55.00",
+        "QTY_ON_HAND": "1",
+        "QTY_ON_BACK_HAND": "23",
+        DESCRIPTION: "I don't know either..."
+    },
+    {
+        "BRAND": "Samsung",
+        "PRODUCT_NAME": "Samsung QN90A",
+        "GRAPHIC_NAME": "QN90A_Graphic",
+        "COST_PRICE": "546.00",
+        "MSRP": "54.00",
+        "QTY_ON_HAND": "22",
+        "QTY_ON_BACK_HAND": "23",
+        DESCRIPTION: "Super cool TV that loves to interact with you!!!"
+    },
+    {
+        "BRAND": "Samsung",
+        "PRODUCT_NAME": "Samsung Q82B",
+        "GRAPHIC_NAME": "Q82B_Graphic",
+        "COST_PRICE": "546.00",
+        "MSRP": "54.00",
+        "QTY_ON_HAND": "63",
+        "QTY_ON_BACK_HAND": "21",
+        DESCRIPTION: "No Words Here."
+    },
+    {
+        "BRAND": "Samsung",
+        "PRODUCT_NAME": "Samsung Q75A",
+        "GRAPHIC_NAME": "Q75A_Graphic",
+        "COST_PRICE": "71.00",
+        "MSRP": "71.00",
+        "QTY_ON_HAND": "3",
+        "QTY_ON_BACK_HAND": "13",
+        DESCRIPTION: "Almost 1000% Better then every other choice!!!"
+    },
+    {
+        "BRAND": "Samsung",
+        "PRODUCT_NAME": "Samsung QN92B Neo",
+        "GRAPHIC_NAME": "QN92B_Graphic",
+        "COST_PRICE": "123.00",
+        "MSRP": "12.00",
+        "QTY_ON_HAND": "6",
+        "QTY_ON_BACK_HAND": "8",
+        DESCRIPTION: "5 is the special number for this!"
+    },
+    {
+        "BRAND": "Hisense",
+        "PRODUCT_NAME": "L9G Trichroma Lazer TV",
+        "GRAPHIC_NAME": "L9G_Graphic",
+        "COST_PRICE": "456.00",
+        "MSRP": "55.00",
+        "QTY_ON_HAND": "3",
+        "QTY_ON_BACK_HAND": "10",
+        DESCRIPTION: "This is a TV that will rock the world!!!"
+    },
+    {
+        "BRAND": "Hisense",
+        "PRODUCT_NAME": "L5G Laser Projector TV",
+        "GRAPHIC_NAME": "L5G_Graphic",
+        "COST_PRICE": "522.00",
+        "MSRP": "4.00",
+        "QTY_ON_HAND": "3",
+        "QTY_ON_BACK_HAND": "2",
+        DESCRIPTION: "This TV will make your eyes wish they were the screen!"
+    },
+    {
+        "BRAND": "Hisense",
+        "PRODUCT_NAME": "L5F Lazer TV",
+        "GRAPHIC_NAME": "L5F_Graphic",
+        "COST_PRICE": "420.00",
+        "MSRP": "6",
+        "QTY_ON_HAND": "9",
+        "QTY_ON_BACK_HAND": "2",
+        DESCRIPTION: "This tv holds many things to help the user!"
+    },
+    {
+        "BRAND": "Hisense",
+        "PRODUCT_NAME": "U88G Series",
+        "GRAPHIC_NAME": "U88G_Graphic",
+        "COST_PRICE": "100.00",
+        "MSRP": "25.00",
+        "QTY_ON_HAND": "2",
+        "QTY_ON_BACK_HAND": "4",
+        DESCRIPTION: "More in the back always because these are being bought as fast as you can breathe! They are simply amazing!!!"
+    },
+    {
+        "BRAND": "LG",
+        "PRODUCT_NAME": "LG G2 OLED",
+        "GRAPHIC_NAME": "LG_G2_Graphic",
+        "COST_PRICE": "1500.00",
+        "MSRP": "400.00",
+        "QTY_ON_HAND": "4",
+        "QTY_ON_BACK_HAND": "8",
+        DESCRIPTION: "Happy Screen!"
+    },
+    {
+        "BRAND": "LG",
+        "PRODUCT_NAME": "LG Fake",
+        "GRAPHIC_NAME": "LG_FAKE_Graphic",
+        "COST_PRICE": "2000.00",
+        "MSRP": "55.00",
+        "QTY_ON_HAND": "6",
+        "QTY_ON_BACK_HAND": "8",
+        DESCRIPTION: "Don't buy this."
+    },
+    {
+        "BRAND": "LG",
+        "PRODUCT_NAME": "LG Random",
+        "GRAPHIC_NAME": "LG_Random_Graphic",
+        "COST_PRICE": "8123.00",
+        "MSRP": "1000.00",
+        "QTY_ON_HAND": "3",
+        "QTY_ON_BACK_HAND": "8",
+        DESCRIPTION: "Random prices, just wait to try your luck!!!"
+    },
+    {
+        "BRAND": "LG",
+        "PRODUCT_NAME": "LG Missing",
+        "GRAPHIC_NAME": "LG_Missing_Graphic",
+        "COST_PRICE": "350.00",
+        "MSRP": "1.00",
+        "QTY_ON_HAND": "0",
+        "QTY_ON_BACK_HAND": "0",
+        DESCRIPTION: "Nothing here."
+    },
+    {
+        "BRAND": "Samsung",
+        "PRODUCT_NAME": "Samsung S95B",
+        "GRAPHIC_NAME": "S95B_Graphic",
+        "COST_PRICE": "1200.00",
+        "MSRP": "24.00",
+        "QTY_ON_HAND": "1",
+        "QTY_ON_BACK_HAND": "5",
+        DESCRIPTION: "Lovely greens and blues on this very special cool TV!"
+    }
+]
