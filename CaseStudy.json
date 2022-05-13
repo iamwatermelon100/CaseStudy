@@ -7,7 +7,7 @@
         "MSRP": "123.00",
         "QTY_ON_HAND": "6",
         "QTY_ON_BACK_HAND": "10",
-        DESCRIPTION: "This is one of the best TV's in the world!!!"
+        "DESCRIPTION": "This is one of the best TV's in the world!!!"
     },
     {
         "BRAND": "LG",
@@ -17,7 +17,7 @@
         "MSRP": "55.00",
         "QTY_ON_HAND": "1",
         "QTY_ON_BACK_HAND": "23",
-        DESCRIPTION: "I don't know either..."
+        "DESCRIPTION": "I don't know either..."
     },
     {
         "BRAND": "Samsung",
@@ -27,7 +27,7 @@
         "MSRP": "54.00",
         "QTY_ON_HAND": "22",
         "QTY_ON_BACK_HAND": "23",
-        DESCRIPTION: "Super cool TV that loves to interact with you!!!"
+        "DESCRIPTION": "Super cool TV that loves to interact with you!!!"
     },
     {
         "BRAND": "Samsung",
@@ -37,7 +37,7 @@
         "MSRP": "54.00",
         "QTY_ON_HAND": "63",
         "QTY_ON_BACK_HAND": "21",
-        DESCRIPTION: "No Words Here."
+        "DESCRIPTION": "No Words Here."
     },
     {
         "BRAND": "Samsung",
@@ -47,7 +47,7 @@
         "MSRP": "71.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "13",
-        DESCRIPTION: "Almost 1000% Better then every other choice!!!"
+        "DESCRIPTION": "Almost 1000% Better then every other choice!!!"
     },
     {
         "BRAND": "Samsung",
@@ -57,7 +57,7 @@
         "MSRP": "12.00",
         "QTY_ON_HAND": "6",
         "QTY_ON_BACK_HAND": "8",
-        DESCRIPTION: "5 is the special number for this!"
+        "DESCRIPTION": "5 is the special number for this!"
     },
     {
         "BRAND": "Hisense",
@@ -67,7 +67,7 @@
         "MSRP": "55.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "10",
-        DESCRIPTION: "This is a TV that will rock the world!!!"
+        "DESCRIPTION": "This is a TV that will rock the world!!!"
     },
     {
         "BRAND": "Hisense",
@@ -77,7 +77,7 @@
         "MSRP": "4.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "2",
-        DESCRIPTION: "This TV will make your eyes wish they were the screen!"
+        "DESCRIPTION": "This TV will make your eyes wish they were the screen!"
     },
     {
         "BRAND": "Hisense",
@@ -87,7 +87,7 @@
         "MSRP": "6",
         "QTY_ON_HAND": "9",
         "QTY_ON_BACK_HAND": "2",
-        DESCRIPTION: "This tv holds many things to help the user!"
+        "DESCRIPTION": "This tv holds many things to help the user!"
     },
     {
         "BRAND": "Hisense",
@@ -97,7 +97,7 @@
         "MSRP": "25.00",
         "QTY_ON_HAND": "2",
         "QTY_ON_BACK_HAND": "4",
-        DESCRIPTION: "More in the back always because these are being bought as fast as you can breathe! They are simply amazing!!!"
+        "DESCRIPTION": "More in the back always because these are being bought as fast as you can breathe! They are simply amazing!!!"
     },
     {
         "BRAND": "LG",
@@ -107,7 +107,7 @@
         "MSRP": "400.00",
         "QTY_ON_HAND": "4",
         "QTY_ON_BACK_HAND": "8",
-        DESCRIPTION: "Happy Screen!"
+        "DESCRIPTION": "Happy Screen!"
     },
     {
         "BRAND": "LG",
@@ -117,7 +117,7 @@
         "MSRP": "55.00",
         "QTY_ON_HAND": "6",
         "QTY_ON_BACK_HAND": "8",
-        DESCRIPTION: "Don't buy this."
+        "DESCRIPTION": "Don't buy this."
     },
     {
         "BRAND": "LG",
@@ -127,7 +127,7 @@
         "MSRP": "1000.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "8",
-        DESCRIPTION: "Random prices, just wait to try your luck!!!"
+        "DESCRIPTION": "Random prices, just wait to try your luck!!!"
     },
     {
         "BRAND": "LG",
@@ -137,7 +137,7 @@
         "MSRP": "1.00",
         "QTY_ON_HAND": "0",
         "QTY_ON_BACK_HAND": "0",
-        DESCRIPTION: "Nothing here."
+        "DESCRIPTION": "Nothing here."
     },
     {
         "BRAND": "Samsung",
@@ -147,6 +147,6 @@
         "MSRP": "24.00",
         "QTY_ON_HAND": "1",
         "QTY_ON_BACK_HAND": "5",
-        DESCRIPTION: "Lovely greens and blues on this very special cool TV!"
+        "DESCRIPTION": "Lovely greens and blues on this very special cool TV!"
     }
 ]
