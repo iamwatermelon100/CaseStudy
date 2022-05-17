@@ -2,7 +2,7 @@
     {
         "BRAND": "Hisense",
         "PRODUCT_NAME": "Hisense U9DG",
-        "GRAPHIC_NAME": "U9DG_Graphic",
+        "GRAPHIC_NAME": "U9DG_Graphic.jpg",
         "COST_PRICE": "500.00",
         "MSRP": "123.00",
         "QTY_ON_HAND": "6",
@@ -12,7 +12,7 @@
     {
         "BRAND": "LG",
         "PRODUCT_NAME": "LG Why",
-        "GRAPHIC_NAME": "LG_Why_Graphic",
+        "GRAPHIC_NAME": "LG_Why_Graphic.jpg",
         "COST_PRICE": "950.00",
         "MSRP": "55.00",
         "QTY_ON_HAND": "1",
@@ -22,7 +22,7 @@
     {
         "BRAND": "Samsung",
         "PRODUCT_NAME": "Samsung QN90A",
-        "GRAPHIC_NAME": "QN90A_Graphic",
+        "GRAPHIC_NAME": "QN90A_Graphic.jpg",
         "COST_PRICE": "546.00",
         "MSRP": "54.00",
         "QTY_ON_HAND": "22",
@@ -32,7 +32,7 @@
     {
         "BRAND": "Samsung",
         "PRODUCT_NAME": "Samsung Q82B",
-        "GRAPHIC_NAME": "Q82B_Graphic",
+        "GRAPHIC_NAME": "Q82B_Graphic.jpg",
         "COST_PRICE": "546.00",
         "MSRP": "54.00",
         "QTY_ON_HAND": "63",
@@ -42,7 +42,7 @@
     {
         "BRAND": "Samsung",
         "PRODUCT_NAME": "Samsung Q75A",
-        "GRAPHIC_NAME": "Q75A_Graphic",
+        "GRAPHIC_NAME": "Q75A_Graphic.jpg",
         "COST_PRICE": "71.00",
         "MSRP": "71.00",
         "QTY_ON_HAND": "3",
@@ -52,7 +52,7 @@
     {
         "BRAND": "Samsung",
         "PRODUCT_NAME": "Samsung QN92B Neo",
-        "GRAPHIC_NAME": "QN92B_Graphic",
+        "GRAPHIC_NAME": "QN92B_Graphic.jpg",
         "COST_PRICE": "123.00",
         "MSRP": "12.00",
         "QTY_ON_HAND": "6",
@@ -62,7 +62,7 @@
     {
         "BRAND": "Hisense",
         "PRODUCT_NAME": "L9G Trichroma Lazer TV",
-        "GRAPHIC_NAME": "L9G_Graphic",
+        "GRAPHIC_NAME": "L9G_Graphic.jpg",
         "COST_PRICE": "456.00",
         "MSRP": "55.00",
         "QTY_ON_HAND": "3",
@@ -72,7 +72,7 @@
     {
         "BRAND": "Hisense",
         "PRODUCT_NAME": "L5G Laser Projector TV",
-        "GRAPHIC_NAME": "L5G_Graphic",
+        "GRAPHIC_NAME": "L5G_Graphic.jpg",
         "COST_PRICE": "522.00",
         "MSRP": "4.00",
         "QTY_ON_HAND": "3",
@@ -82,7 +82,7 @@
     {
         "BRAND": "Hisense",
         "PRODUCT_NAME": "L5F Lazer TV",
-        "GRAPHIC_NAME": "L5F_Graphic",
+        "GRAPHIC_NAME": "L5F_Graphic.jpg",
         "COST_PRICE": "420.00",
         "MSRP": "6",
         "QTY_ON_HAND": "9",
@@ -92,7 +92,7 @@
     {
         "BRAND": "Hisense",
         "PRODUCT_NAME": "U88G Series",
-        "GRAPHIC_NAME": "U88G_Graphic",
+        "GRAPHIC_NAME": "U88G_Graphic.jpg",
         "COST_PRICE": "100.00",
         "MSRP": "25.00",
         "QTY_ON_HAND": "2",
@@ -102,7 +102,7 @@
     {
         "BRAND": "LG",
         "PRODUCT_NAME": "LG G2 OLED",
-        "GRAPHIC_NAME": "LG_G2_Graphic",
+        "GRAPHIC_NAME": "LG_G2_Graphic.jpg",
         "COST_PRICE": "1500.00",
         "MSRP": "400.00",
         "QTY_ON_HAND": "4",
@@ -112,7 +112,7 @@
     {
         "BRAND": "LG",
         "PRODUCT_NAME": "LG Fake",
-        "GRAPHIC_NAME": "LG_FAKE_Graphic",
+        "GRAPHIC_NAME": "LG_FAKE_Graphic.jpg",
         "COST_PRICE": "2000.00",
         "MSRP": "55.00",
         "QTY_ON_HAND": "6",
@@ -122,7 +122,7 @@
     {
         "BRAND": "LG",
         "PRODUCT_NAME": "LG Random",
-        "GRAPHIC_NAME": "LG_Random_Graphic",
+        "GRAPHIC_NAME": "LG_Random_Graphic.jpg",
         "COST_PRICE": "8123.00",
         "MSRP": "1000.00",
         "QTY_ON_HAND": "3",
@@ -132,7 +132,7 @@
     {
         "BRAND": "LG",
         "PRODUCT_NAME": "LG Missing",
-        "GRAPHIC_NAME": "LG_Missing_Graphic",
+        "GRAPHIC_NAME": "LG_Missing_Graphic.jpg",
         "COST_PRICE": "350.00",
         "MSRP": "1.00",
         "QTY_ON_HAND": "0",
@@ -142,7 +142,7 @@
     {
         "BRAND": "Samsung",
         "PRODUCT_NAME": "Samsung S95B",
-        "GRAPHIC_NAME": "S95B_Graphic",
+        "GRAPHIC_NAME": "S95B_Graphic.jpg",
         "COST_PRICE": "1200.00",
         "MSRP": "24.00",
         "QTY_ON_HAND": "1",
