@@ -7,7 +7,7 @@
         "MSRP": "123.00",
         "QTY_ON_HAND": "6",
         "QTY_ON_BACK_HAND": "10",
-        "DESCRIPTION": "This is one of the best TV's in the world!!!"
+        "DESCRIPTION": "Vivamus sodales eros sed risus aliquam fringilla. In suscipit cursus congue. Phasellus eu diam nisi. Proin ullamcorper porttitor nisl. Nulla sed hendrerit felis. "
     },
     {
         "BRAND": "LG",
@@ -17,7 +17,7 @@
         "MSRP": "55.00",
         "QTY_ON_HAND": "1",
         "QTY_ON_BACK_HAND": "23",
-        "DESCRIPTION": "I don't know either..."
+        "DESCRIPTION": "Curabitur id tincidunt tellus, sit amet mattis nibh. Quisque et laoreet nulla, eu accumsan mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas."
     },
     {
         "BRAND": "Samsung",
@@ -27,7 +27,7 @@
         "MSRP": "54.00",
         "QTY_ON_HAND": "22",
         "QTY_ON_BACK_HAND": "23",
-        "DESCRIPTION": "Super cool TV that loves to interact with you!!!"
+        "DESCRIPTION": "Vestibulum euismod maximus metus eu sollicitudin. Proin tortor quam, vestibulum vel dignissim non, laoreet eu nisl."
     },
     {
         "BRAND": "Samsung",
@@ -37,7 +37,7 @@
         "MSRP": "54.00",
         "QTY_ON_HAND": "63",
         "QTY_ON_BACK_HAND": "21",
-        "DESCRIPTION": "No Words Here."
+        "DESCRIPTION": "Curabitur dapibus, dolor quis mollis malesuada, massa dolor fringilla sapien, sed scelerisque urna justo quis nisi. Nunc consectetur, quam at semper dignissim, magna diam luctus arcu."
     },
     {
         "BRAND": "Samsung",
@@ -47,7 +47,7 @@
         "MSRP": "71.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "13",
-        "DESCRIPTION": "Almost 1000% Better then every other choice!!!"
+        "DESCRIPTION": "Nullam faucibus massa ut leo sodales maximus vel sit amet tortor. Aenean auctor mattis consectetur. Donec suscipit gravida lectus ut gravida."
     },
     {
         "BRAND": "Samsung",
@@ -57,7 +57,7 @@
         "MSRP": "12.00",
         "QTY_ON_HAND": "6",
         "QTY_ON_BACK_HAND": "8",
-        "DESCRIPTION": "5 is the special number for this!"
+        "DESCRIPTION": "Quisque sed nisi vel sem imperdiet vestibulum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at auctor urna, eget gravida lacus."
     },
     {
         "BRAND": "Hisense",
@@ -67,7 +67,7 @@
         "MSRP": "55.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "10",
-        "DESCRIPTION": "This is a TV that will rock the world!!!"
+        "DESCRIPTION": "Donec condimentum elit sit amet purus convallis, eu tempus diam accumsan. Nunc auctor mauris eu tellus pellentesque euismod."
     },
     {
         "BRAND": "Hisense",
@@ -77,7 +77,7 @@
         "MSRP": "4.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "2",
-        "DESCRIPTION": "This TV will make your eyes wish they were the screen!"
+        "DESCRIPTION": "Aliquam vulputate, lacus nec cursus malesuada, ante justo pharetra augue, non elementum leo lorem ut lacus. Morbi vel magna nec nisi rhoncus tempor at at sem"
     },
     {
         "BRAND": "Hisense",
@@ -87,7 +87,7 @@
         "MSRP": "6",
         "QTY_ON_HAND": "9",
         "QTY_ON_BACK_HAND": "2",
-        "DESCRIPTION": "This tv holds many things to help the user!"
+        "DESCRIPTION": "Ut ullamcorper, felis efficitur accumsan commodo, augue dui varius tortor, nec tempus eros sem nec ex."
     },
     {
         "BRAND": "Hisense",
@@ -107,7 +107,7 @@
         "MSRP": "400.00",
         "QTY_ON_HAND": "4",
         "QTY_ON_BACK_HAND": "8",
-        "DESCRIPTION": "Happy Screen!"
+        "DESCRIPTION": "Proin tincidunt, ligula et finibus tincidunt, dui dolor laoreet augue, a vestibulum sapien orci vel leo."
     },
     {
         "BRAND": "LG",
@@ -117,7 +117,7 @@
         "MSRP": "55.00",
         "QTY_ON_HAND": "6",
         "QTY_ON_BACK_HAND": "8",
-        "DESCRIPTION": "Don't buy this."
+        "DESCRIPTION": "Phasellus nec viverra sapien. Nulla facilisi. Nullam in dignissim ipsum."
     },
     {
         "BRAND": "LG",
@@ -127,7 +127,7 @@
         "MSRP": "1000.00",
         "QTY_ON_HAND": "3",
         "QTY_ON_BACK_HAND": "8",
-        "DESCRIPTION": "Random prices, just wait to try your luck!!!"
+        "DESCRIPTION": "Donec feugiat est quis rutrum vehicula. Duis rutrum maximus augue, quis consectetur elit elementum sit amet."
     },
     {
         "BRAND": "LG",
@@ -137,7 +137,7 @@
         "MSRP": "1.00",
         "QTY_ON_HAND": "0",
         "QTY_ON_BACK_HAND": "0",
-        "DESCRIPTION": "Nothing here."
+        "DESCRIPTION": "Praesent pulvinar vel est at efficitur. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam a nisi et orci bibendum dictum. Donec et tincidunt augue."
     },
     {
         "BRAND": "Samsung",
@@ -147,6 +147,6 @@
         "MSRP": "24.00",
         "QTY_ON_HAND": "1",
         "QTY_ON_BACK_HAND": "5",
-        "DESCRIPTION": "Lovely greens and blues on this very special cool TV!"
+        "DESCRIPTION": "Mauris non laoreet elit. Etiam sed mi non odio semper mollis. Pellentesque congue sapien dui, in commodo sem sagittis ac. Donec quis fringilla nunc. Sed congue magna at libero aliquam."
     }
 ]
